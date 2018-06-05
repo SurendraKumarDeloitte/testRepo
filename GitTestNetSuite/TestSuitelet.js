@@ -1,7 +1,7 @@
 /**
  * @NApiVersion 2.x
  * @NScriptType Suitelet
- * @NModuleScope SameAccount test change
+ * @NModuleScope SameAccount test change again change
  */
 define(['N/record', 'N/search'],
 /**
